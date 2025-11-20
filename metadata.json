@@ -1,0 +1,5 @@
+{
+  "name": "DanData Hub",
+  "description": "A comprehensive explorer for Danish Statistics (DST) registries, integrating AI to find variable descriptions, documentation, and relevant economic papers.",
+  "requestFramePermissions": []
+}
